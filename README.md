@@ -1,4 +1,4 @@
 # Leetcode
 
-This repo will contain my track of solving leetcode problems. 2 problems everyday without fail.
+This repo will contain my track of solving leetcode problems.
 In each, I will try and make a note of my learning s in each program.
